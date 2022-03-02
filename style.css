@@ -3,6 +3,7 @@ h1 {
     color: purple;
     background-color: white;
     border: 10px solid black;
+    margin-left: 10px;
 }
 
 /* p {
